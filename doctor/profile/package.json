@@ -1,0 +1,17 @@
+{
+  "main": "index.js",
+  "name": "golgi-profile-ms",
+  "description": "A Microservice to manage doctor profile data",
+  "type": "module",
+  "keywords": [
+    "doctor",
+    "patiente",
+    "health",
+    "saúde",
+    "médico"
+  ],
+  "dependencies": {
+    "sanitize-html": "^2.13.0",
+    "zod": "^3.23.8"
+  }
+}
