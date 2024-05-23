@@ -81,5 +81,3 @@ Requisitos do Projecto
 3. **Backup e Recuperação de Dados**
    - Sistemas de backup regular dos dados.
    - Mecanismos de recuperação de dados em caso de falha.
-
-Esses requisitos funcionais visam cobrir as necessidades principais de uma aplicação web de medicina focada na gestão eficiente das obrigações dos médicos e dos serviços oferecidos aos pacientes.
