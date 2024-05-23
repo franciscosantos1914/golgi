@@ -1,3 +1,3 @@
-FROM node:node:alpine3.18
+FROM node:alpine3.18
 WORKDIR /app
 COPY . .
